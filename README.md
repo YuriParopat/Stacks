@@ -4,7 +4,7 @@ Repository that contains the application of TAD Stacks for solving equations of 
 <h1 align="center">Hi 👋, I'm Yuri</h1>
 <h3 align="center">Full cycle developer Web and Desktop for automation and IT solutions</h3>
 
-- 🔭 I’m currently working on [StoreControl App](https://softwares-educacionais-musica.herokuapp.com/](https://www.storecontrol.app/)
+- 🔭 I’m currently working on [StoreControl App](https://www.storecontrol.app/)
 
 - 🌱 I’m currently learning **C# and .Net; Computational modeling; Data Science**
 
